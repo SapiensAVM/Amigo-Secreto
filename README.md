@@ -5,7 +5,7 @@
 - **Validación de nombres**: Evita nombres duplicados, campos vacíos, nombres escritos y no agregados.  
 - **Sorteo**: Crea parejas diferentes de amigos.  
 - **Resultados**: Los resultados del sorteo se muestran en la misma pantalla y de manera ordenada.  
-- **Reiniciar**: Limpia la lista de participantes y los resultados para empezar de nuevo.  
+- **Reiniciar**: Al actualizar la página se limpia la lista de participantes y los resultados para empezar de nuevo.  
 
 ## Herramientas utilizadas  
 - **HTML**  
